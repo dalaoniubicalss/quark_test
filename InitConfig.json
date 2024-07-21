@@ -1,0 +1,8 @@
+{
+	"MinVersion":"1.0.0",
+	"server_ip":"http://normalcs.quarkdomino.com:20000",
+	"checkSim":"0",
+	"airplaneNumber":"QuarkSlots",
+	"payUrl":"http://normalcs.quarkdomino.com:20100",
+	"shareLink":"http://normalcs.quarkdomino.com:25000"
+}

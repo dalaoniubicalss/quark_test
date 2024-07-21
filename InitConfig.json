@@ -4,5 +4,6 @@
 	"checkSim":"0",
 	"airplaneNumber":"QuarkSlots",
 	"payUrl":"http://normalcs.quarkdomino.com:20100",
+	"ossUrl":"http://normalcs.quarkdomino.com:23000/games/",
 	"shareLink":"http://normalcs.quarkdomino.com:25000"
 }
